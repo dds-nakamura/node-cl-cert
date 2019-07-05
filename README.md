@@ -40,6 +40,7 @@ curl -v -k --key client.key --cert client.crt https://127.0.0.1:[port]
 
 [node.js/クライアント認証がしたい](https://vok.paburica.com/index.php?node.js%2F%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E8%AA%8D%E8%A8%BC%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84)
 
+[Node.jsによるHTTPS認証証明書](https://engineering.circle.com/https-authorized-certs-with-node-js-315e548354a2)
 
 ### Memo (Key creation procedure)
 
